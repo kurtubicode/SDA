@@ -8,7 +8,7 @@ class Node:
 
 # global root
 root = None
-
+   
 # create new tree (root)
 def create_new_tree(label):
     global root
